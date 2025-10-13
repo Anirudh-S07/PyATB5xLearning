@@ -21,6 +21,5 @@ elif num3 >= num2 and num3 >= num2:
     print(f"{num3} is max")
 else:
     print(f"{num2} is max")
-
 # Optimization
 
