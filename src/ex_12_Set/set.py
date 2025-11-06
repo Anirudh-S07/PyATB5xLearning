@@ -1,6 +1,7 @@
 # SET
 # Collection of Unique Elements
 # {} - parenthesis
+# Immutable
 
 set_of_unique_items = {1, 2, 23, 4, 5, 5, 75, 6, 6, 5, 8, "sfsfs", True, False, False, True}
 print(set_of_unique_items)  # will return the set of unique set of elements also remember 1 and True are considered same
