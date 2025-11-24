@@ -4,8 +4,7 @@ class Home:
         self.__private_var = "Child"
 
     def mom(self):
-        print(self.__private_var)
-        print(self.__wife())
+        return self.__private_var, self.__wife()
 
     def __wife(self):
         return "Private Wife"
