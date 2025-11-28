@@ -7,13 +7,13 @@ class O:
     def sum(a, b):
         return a + b
 
-    def sub(self,a,b):
+    def sub(self, a, b):
         return a-b
 
 
 obj_O = O()
-result = obj_O.sub(3,4)
+result = obj_O.sub(3, 4)
 print(result)
 print(" -- ")
 
-print(O.sum(3,4))
+print(O.sum(3, 4))
